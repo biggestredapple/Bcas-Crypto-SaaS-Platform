@@ -1,0 +1,901 @@
+[
+  {
+    "id": 1,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "rank": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "slug": "bitcoin",
+    "price": 56257.46
+  },
+  {
+    "id": 1027,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "rank": 2,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "slug": "ethereum",
+    "price": 3235.35
+  },
+  {
+    "id": 825,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "rank": 3,
+    "name": "Tether USDt",
+    "symbol": "USDT",
+    "slug": "tether",
+    "price": 1.0
+  },
+  {
+    "id": 1839,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "rank": 4,
+    "name": "BNB",
+    "symbol": "BNB",
+    "slug": "bnb",
+    "price": 399.32
+  },
+  {
+    "id": 5426,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    "rank": 5,
+    "name": "Solana",
+    "symbol": "SOL",
+    "slug": "solana",
+    "price": 110.95
+  },
+  {
+    "id": 52,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+    "rank": 6,
+    "name": "XRP",
+    "symbol": "XRP",
+    "slug": "xrp",
+    "price": 0.5557
+  },
+  {
+    "id": 3408,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "rank": 7,
+    "name": "USDC",
+    "symbol": "USDC",
+    "slug": "usd-coin",
+    "price": 0.9999
+  },
+  {
+    "id": 2010,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+    "rank": 8,
+    "name": "Cardano",
+    "symbol": "ADA",
+    "slug": "cardano",
+    "price": 0.6274
+  },
+  {
+    "id": 5805,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+    "rank": 9,
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "slug": "avalanche",
+    "price": 39.72
+  },
+  {
+    "id": 74,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+    "rank": 10,
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "slug": "dogecoin",
+    "price": 0.08989
+  },
+  {
+    "id": 1958,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+    "rank": 11,
+    "name": "TRON",
+    "symbol": "TRX",
+    "slug": "tron",
+    "price": 0.1405
+  },
+  {
+    "id": 1975,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "rank": 12,
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "slug": "chainlink",
+    "price": 19.17
+  },
+  {
+    "id": 6636,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+    "rank": 13,
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "slug": "polkadot-new",
+    "price": 8.11
+  },
+  {
+    "id": 3890,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+    "rank": 14,
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "slug": "polygon",
+    "price": 1.07
+  },
+  {
+    "id": 11419,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+    "rank": 15,
+    "name": "Toncoin",
+    "symbol": "TON",
+    "slug": "toncoin",
+    "price": 2.14
+  },
+  {
+    "id": 7083,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "rank": 16,
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "slug": "uniswap",
+    "price": 10.57
+  },
+  {
+    "id": 8916,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png",
+    "rank": 17,
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "slug": "internet-computer",
+    "price": 13.2
+  },
+  {
+    "id": 5994,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+    "rank": 18,
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "slug": "shiba-inu",
+    "price": 0.00001013
+  },
+  {
+    "id": 4943,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    "rank": 19,
+    "name": "Dai",
+    "symbol": "DAI",
+    "slug": "multi-collateral-dai",
+    "price": 0.99999
+  },
+  {
+    "id": 1831,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+    "rank": 20,
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "slug": "bitcoin-cash",
+    "price": 289.33
+  },
+  {
+    "id": 2,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+    "rank": 21,
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "slug": "litecoin",
+    "price": 74.56
+  },
+  {
+    "id": 10603,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png",
+    "rank": 22,
+    "name": "Immutable",
+    "symbol": "IMX",
+    "slug": "immutable-x",
+    "price": 3.38
+  },
+  {
+    "id": 2280,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+    "rank": 23,
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "slug": "filecoin",
+    "price": 8.06
+  },
+  {
+    "id": 3794,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+    "rank": 24,
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "slug": "cosmos",
+    "price": 11.33
+  },
+  {
+    "id": 1321,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+    "rank": 25,
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "slug": "ethereum-classic",
+    "price": 28.28
+  },
+  {
+    "id": 6535,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+    "rank": 26,
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "slug": "near-protocol",
+    "price": 4.07
+  },
+  {
+    "id": 3957,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
+    "rank": 27,
+    "name": "UNUS SED LEO",
+    "symbol": "LEO",
+    "slug": "unus-sed-leo",
+    "price": 4.36
+  },
+  {
+    "id": 20396,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png",
+    "rank": 28,
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "slug": "kaspa",
+    "price": 0.1724
+  },
+  {
+    "id": 22974,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png",
+    "rank": 29,
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "slug": "bittensor",
+    "price": 591.96
+  },
+  {
+    "id": 11840,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
+    "rank": 30,
+    "name": "Optimism",
+    "symbol": "OP",
+    "slug": "optimism-ethereum",
+    "price": 3.9
+  },
+  {
+    "id": 4847,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png",
+    "rank": 31,
+    "name": "Stacks",
+    "symbol": "STX",
+    "slug": "stacks",
+    "price": 3.09
+  },
+  {
+    "id": 4642,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+    "rank": 32,
+    "name": "Hedera",
+    "symbol": "HBAR",
+    "slug": "hedera",
+    "price": 0.1119
+  },
+  {
+    "id": 21794,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png",
+    "rank": 33,
+    "name": "Aptos",
+    "symbol": "APT",
+    "slug": "aptos",
+    "price": 10.3
+  },
+  {
+    "id": 3077,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+    "rank": 34,
+    "name": "VeChain",
+    "symbol": "VET",
+    "slug": "vechain",
+    "price": 0.05009
+  },
+  {
+    "id": 7226,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png",
+    "rank": 35,
+    "name": "Injective",
+    "symbol": "INJ",
+    "slug": "injective",
+    "price": 37.2
+  },
+  {
+    "id": 512,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+    "rank": 36,
+    "name": "Stellar",
+    "symbol": "XLM",
+    "slug": "stellar",
+    "price": 0.1186
+  },
+  {
+    "id": 26081,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png",
+    "rank": 37,
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "slug": "first-digital-usd",
+    "price": 0.9998
+  },
+  {
+    "id": 8000,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
+    "rank": 38,
+    "name": "Lido DAO",
+    "symbol": "LDO",
+    "slug": "lido-dao",
+    "price": 3.6
+  },
+  {
+    "id": 3897,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png",
+    "rank": 39,
+    "name": "OKB",
+    "symbol": "OKB",
+    "slug": "okb",
+    "price": 51.21
+  },
+  {
+    "id": 27075,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png",
+    "rank": 40,
+    "name": "Mantle",
+    "symbol": "MNT",
+    "slug": "mantle",
+    "price": 0.9337
+  },
+  {
+    "id": 22861,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png",
+    "rank": 41,
+    "name": "Celestia",
+    "symbol": "TIA",
+    "slug": "celestia",
+    "price": 16.91
+  },
+  {
+    "id": 6719,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+    "rank": 42,
+    "name": "The Graph",
+    "symbol": "GRT",
+    "slug": "the-graph",
+    "price": 0.2877
+  },
+  {
+    "id": 5690,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png",
+    "rank": 43,
+    "name": "Render",
+    "symbol": "RNDR",
+    "slug": "render",
+    "price": 7.62
+  },
+  {
+    "id": 11841,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png",
+    "rank": 44,
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "slug": "arbitrum",
+    "price": 1.94
+  },
+  {
+    "id": 3635,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+    "rank": 45,
+    "name": "Cronos",
+    "symbol": "CRO",
+    "slug": "cronos",
+    "price": 0.09902
+  },
+  {
+    "id": 328,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+    "rank": 46,
+    "name": "Monero",
+    "symbol": "XMR",
+    "slug": "monero",
+    "price": 130.03
+  },
+  {
+    "id": 23149,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png",
+    "rank": 47,
+    "name": "Sei",
+    "symbol": "SEI",
+    "slug": "sei",
+    "price": 3235.35
+  },
+  {
+    "id": 1518,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+    "rank": 48,
+    "name": "Maker",
+    "symbol": "MKR",
+    "slug": "maker",
+    "price": 2145.02
+  },
+  {
+    "id": 20947,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png",
+    "rank": 49,
+    "name": "Sui",
+    "symbol": "SUI",
+    "slug": "sui",
+    "price": 1.69
+  },
+  {
+    "id": 4157,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png",
+    "rank": 50,
+    "name": "THORChain",
+    "symbol": "RUNE",
+    "slug": "thorchain",
+    "price": 5.94
+  },
+  {
+    "id": 28298,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png",
+    "rank": 51,
+    "name": "Beam",
+    "symbol": "BEAM",
+    "slug": "onbeam",
+    "price": 0.03461
+  },
+  {
+    "id": 4030,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+    "rank": 52,
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "slug": "algorand",
+    "price": 0.211
+  },
+  {
+    "id": 7950,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png",
+    "rank": 53,
+    "name": "Flare",
+    "symbol": "FLR",
+    "slug": "flare",
+    "price": 0.05195
+  },
+  {
+    "id": 6892,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+    "rank": 54,
+    "name": "MultiversX",
+    "symbol": "EGLD",
+    "slug": "multiversx-egld",
+    "price": 60.94
+  },
+  {
+    "id": 4558,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
+    "rank": 55,
+    "name": "Flow",
+    "symbol": "FLOW",
+    "slug": "flow",
+    "price": 1.08
+  },
+  {
+    "id": 7278,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+    "rank": 56,
+    "name": "Aave",
+    "symbol": "AAVE",
+    "slug": "aave",
+    "price": 103.78
+  },
+  {
+    "id": 3602,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png",
+    "rank": 57,
+    "name": "Bitcoin SV",
+    "symbol": "BSV",
+    "slug": "bitcoin-sv"
+  },
+  {
+    "id": 2416,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+    "rank": 58,
+    "name": "Theta Network",
+    "symbol": "THETA",
+    "slug": "theta-network",
+    "price": 2.11
+  },
+  {
+    "id": 22691,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png",
+    "rank": 59,
+    "name": "Starknet",
+    "symbol": "STRK",
+    "slug": "starknet-token",
+    "price": 1.94
+  },
+  {
+    "id": 11092,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png",
+    "rank": 60,
+    "name": "Bitget Token",
+    "symbol": "BGB",
+    "slug": "bitget-token-new",
+    "price": 1.04
+  },
+  {
+    "id": 5665,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png",
+    "rank": 61,
+    "name": "Helium",
+    "symbol": "HNT",
+    "slug": "helium",
+    "price": 10.01
+  },
+  {
+    "id": 8646,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png",
+    "rank": 62,
+    "name": "Mina",
+    "symbol": "MINA",
+    "slug": "mina",
+    "price": 1.34
+  },
+  {
+    "id": 25028,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png",
+    "rank": 63,
+    "name": "ORDI",
+    "symbol": "ORDI",
+    "slug": "ordi",
+    "price": 69.04
+  },
+  {
+    "id": 3155,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "rank": 64,
+    "name": "Quant",
+    "symbol": "QNT",
+    "slug": "quant",
+    "price": 111.83
+  },
+  {
+    "id": 2563,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
+    "rank": 65,
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "slug": "trueusd",
+    "price": 0.9682
+  },
+  {
+    "id": 2586,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+    "rank": 66,
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "slug": "synthetix",
+    "price": 4.08
+  },
+  {
+    "id": 13502,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png",
+    "rank": 67,
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "slug": "worldcoin-org",
+    "price": 7.81
+  },
+  {
+    "id": 18876,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png",
+    "rank": 68,
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "slug": "apecoin-ape",
+    "price": 1.99
+  },
+  {
+    "id": 6210,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+    "rank": 69,
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "slug": "the-sandbox",
+    "price": 0.05444
+  },
+  {
+    "id": 3513,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+    "rank": 70,
+    "name": "Fantom",
+    "symbol": "FTM",
+    "slug": "fantom",
+    "price": 0.04441
+  },
+  {
+    "id": 6783,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
+    "rank": 71,
+    "name": "Axie Infinity",
+    "symbol": "AXS",
+    "slug": "axie-infinity",
+    "price": 8.73
+  },
+  {
+    "id": 4066,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png",
+    "rank": 72,
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "slug": "chiliz",
+    "price": 0.138
+  },
+  {
+    "id": 2011,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+    "rank": 73,
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "slug": "tezos",
+    "price": 1.16
+  },
+  {
+    "id": 23121,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23121.png",
+    "rank": 74,
+    "name": "Blur",
+    "symbol": "BLUR",
+    "slug": "blur-token",
+    "price": 0.7649
+  },
+  {
+    "id": 5632,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png",
+    "rank": 75,
+    "name": "Arweave",
+    "symbol": "AR",
+    "slug": "arweave",
+    "price": 16.51
+  },
+  {
+    "id": 2087,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
+    "rank": 76,
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "slug": "kucoin-token",
+    "price": 10.94
+  },
+  {
+    "id": 16086,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png",
+    "rank": 77,
+    "name": "BitTorrent (New)",
+    "symbol": "BTT",
+    "slug": "bittorrent-new",
+    "price": 0.000001125
+  },
+  {
+    "id": 1966,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+    "rank": 78,
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "slug": "decentraland",
+    "price": 0.5377
+  },
+  {
+    "id": 11156,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11156.png",
+    "rank": 79,
+    "name": "dYdX (ethDYDX)",
+    "symbol": "ETHDYDX",
+    "slug": "dydx-ethdydx",
+    "price": 3.42
+  },
+  {
+    "id": 28683,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28683.png",
+    "rank": 80,
+    "name": "SATS",
+    "symbol": "1000SATS",
+    "slug": "sats",
+    "price": 0.0005076
+  },
+  {
+    "id": 7080,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png",
+    "rank": 81,
+    "name": "Gala",
+    "symbol": "GALA",
+    "slug": "gala",
+    "price": 0.03338
+  },
+  {
+    "id": 2424,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2424.png",
+    "rank": 82,
+    "name": "SingularityNET",
+    "symbol": "AGIX",
+    "slug": "singularitynet",
+    "price": 0.7164
+  },
+  {
+    "id": 7501,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png",
+    "rank": 83,
+    "name": "WOO",
+    "symbol": "WOO",
+    "slug": "wootrade",
+    "price": 0.5178
+  },
+  {
+    "id": 28932,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28932.png",
+    "rank": 84,
+    "name": "Dymension",
+    "symbol": "DYM",
+    "slug": "dymension",
+    "price": 6.22
+  },
+  {
+    "id": 14101,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png",
+    "rank": 85,
+    "name": "Ronin",
+    "symbol": "RON",
+    "slug": "ronin",
+    "price": 3.11
+  },
+  {
+    "id": 7431,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7431.png",
+    "rank": 86,
+    "name": "Akash Network",
+    "symbol": "AKT",
+    "slug": "akash-network",
+    "price": 4.89
+  },
+  {
+    "id": 7334,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png",
+    "rank": 87,
+    "name": "Conflux",
+    "symbol": "CFX",
+    "slug": "conflux-network",
+    "price": 0.2532
+  },
+  {
+    "id": 12885,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
+    "rank": 88,
+    "name": "Astar",
+    "symbol": "ASTR",
+    "slug": "astar",
+    "price": 0.1648
+  },
+  {
+    "id": 1376,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png",
+    "rank": 89,
+    "name": "Neo",
+    "symbol": "NEO",
+    "slug": "neo",
+    "price": 13.56
+  },
+  {
+    "id": 3773,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png",
+    "rank": 90,
+    "name": "Fetch.ai",
+    "symbol": "FET",
+    "slug": "fetch",
+    "price": 1.1
+  },
+  {
+    "id": 1659,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png",
+    "rank": 91,
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "slug": "gnosis-gno",
+    "price": 360.82
+  },
+  {
+    "id": 1765,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+    "rank": 92,
+    "name": "EOS",
+    "symbol": "EOS",
+    "slug": "eos",
+    "price": 0.8211
+  },
+  {
+    "id": 4846,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png",
+    "rank": 93,
+    "name": "Kava",
+    "symbol": "KAVA",
+    "slug": "kava",
+    "price": 0.8206
+  },
+  {
+    "id": 1720,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+    "rank": 94,
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "slug": "iota",
+    "price": 0.2828
+  },
+  {
+    "id": 28177,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png",
+    "rank": 95,
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "slug": "pyth-network",
+    "price": 0.7409
+  },
+  {
+    "id": 17799,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png",
+    "rank": 96,
+    "name": "Axelar",
+    "symbol": "AXL",
+    "slug": "axelar",
+    "price": 1.46
+  },
+  {
+    "id": 7653,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png",
+    "rank": 97,
+    "name": "Oasis Network",
+    "symbol": "ROSE",
+    "slug": "oasis-network",
+    "price": 0.1308
+  },
+  {
+    "id": 4256,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
+    "rank": 98,
+    "name": "Klaytn",
+    "symbol": "KLAY",
+    "slug": "klaytn",
+    "price": 0.2334
+  },
+  {
+    "id": 12220,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12220.png",
+    "rank": 99,
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "slug": "osmosis",
+    "price": 1.64
+  },
+  {
+    "id": 7548,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7548.png",
+    "rank": 100,
+    "name": "WEMIX",
+    "symbol": "WEMIX",
+    "slug": "wemix",
+    "price": 2.09
+  }
+]

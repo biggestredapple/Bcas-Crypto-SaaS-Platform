@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Bitcoin (BTC) is a cryptocurrency launched in 2010. Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 19,638,768. The last known price of Bitcoin is 56,374.90693325 USD and is up 9.61 over the last 24 hours. It is currently trading on 10832 active market(s) with $42,132,772,524.03 traded over the last 24 hours. More information can be found at https://bitcoin.org/."
+  },
+  {
+    "id": 1027,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Ethereum (ETH) is a cryptocurrency . Ethereum has a current supply of 120,153,641.37608531. The last known price of Ethereum is 3,235.13870745 USD and is up 4.29 over the last 24 hours. It is currently trading on 8461 active market(s) with $21,739,966,849.37 traded over the last 24 hours. More information can be found at https://www.ethereum.org/."
+  },
+  {
+    "id": 825,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Tether USDt (USDT) is a cryptocurrency and operates on the Ethereum platform. Tether USDt has a current supply of 101,600,078,701.91388 with 98,063,568,243.12697 in circulation. The last known price of Tether USDt is 1.00026693 USD and is up 0.02 over the last 24 hours. It is currently trading on 76035 active market(s) with $79,445,708,933.59 traded over the last 24 hours. More information can be found at https://tether.to."
+  },
+  {
+    "id": 1839,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "BNB (BNB) is a cryptocurrency . BNB has a current supply of 149,542,909.33808407. The last known price of BNB is 398.92463357 USD and is up 3.35 over the last 24 hours. It is currently trading on 2075 active market(s) with $2,234,319,324.26 traded over the last 24 hours. More information can be found at https://bnbchain.org/en."
+  },
+  {
+    "id": 5426,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Solana (SOL) is a cryptocurrency launched in 2020. Solana has a current supply of 570,542,990.3874117 with 442,322,253.3705801 in circulation. The last known price of Solana is 110.8199588 USD and is up 6.42 over the last 24 hours. It is currently trading on 626 active market(s) with $2,968,148,503.86 traded over the last 24 hours. More information can be found at https://solana.com."
+  },
+  {
+    "id": 52,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "XRP (XRP) is a cryptocurrency . XRP has a current supply of 99,987,873,963 with 54,594,247,369 in circulation. The last known price of XRP is 0.55428997 USD and is up 2.76 over the last 24 hours. It is currently trading on 1235 active market(s) with $1,437,954,170.39 traded over the last 24 hours. More information can be found at https://xrpl.org/."
+  },
+  {
+    "id": 3408,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "USDC (USDC) is a cryptocurrency and operates on the Ethereum platform. USDC has a current supply of 28,537,957,846.173023. The last known price of USDC is 0.99995769 USD and is down -0.01 over the last 24 hours. It is currently trading on 16889 active market(s) with $8,418,602,665.86 traded over the last 24 hours. More information can be found at https://www.centre.io/usdc."
+  },
+  {
+    "id": 2010,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Cardano (ADA) is a cryptocurrency launched in 2017. Cardano has a current supply of 36,656,916,043.875 with 35,471,412,808.109 in circulation. The last known price of Cardano is 0.62501899 USD and is up 6.48 over the last 24 hours. It is currently trading on 1081 active market(s) with $735,105,961.10 traded over the last 24 hours. More information can be found at https://www.cardano.org."
+  },
+  {
+    "id": 5805,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Avalanche (AVAX) is a cryptocurrency launched in 2020. Avalanche has a current supply of 435,869,355.93975425 with 377,179,715.93975425 in circulation. The last known price of Avalanche is 39.46883109 USD and is up 5.97 over the last 24 hours. It is currently trading on 671 active market(s) with $621,985,534.59 traded over the last 24 hours. More information can be found at https://avax.network/."
+  },
+  {
+    "id": 74,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Dogecoin (DOGE) is a cryptocurrency . Users are able to generate DOGE through the process of mining. Dogecoin has a current supply of 143,242,206,383.70523. The last known price of Dogecoin is 0.09072121 USD and is up 5.73 over the last 24 hours. It is currently trading on 891 active market(s) with $702,295,703.65 traded over the last 24 hours. More information can be found at http://dogecoin.com/."
+  },
+  {
+    "id": 1958,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "TRON (TRX) is a cryptocurrency . TRON has a current supply of 88,001,172,027.3061 with 88,001,164,536.83676 in circulation. The last known price of TRON is 0.14085442 USD and is up 2.16 over the last 24 hours. It is currently trading on 936 active market(s) with $363,584,228.32 traded over the last 24 hours. More information can be found at https://trondao.org/."
+  },
+  {
+    "id": 1975,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Chainlink (LINK) is a cryptocurrency and operates on the Ethereum platform. Chainlink has a current supply of 1,000,000,000 with 587,099,970.4527867 in circulation. The last known price of Chainlink is 19.10412259 USD and is up 2.87 over the last 24 hours. It is currently trading on 1657 active market(s) with $536,221,236.35 traded over the last 24 hours. More information can be found at https://chain.link/."
+  },
+  {
+    "id": 6636,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Polkadot (DOT) is a cryptocurrency . Polkadot has a current supply of 1,416,019,916.291451 with 1,283,759,414.5830994 in circulation. The last known price of Polkadot is 8.12376121 USD and is up 3.66 over the last 24 hours. It is currently trading on 691 active market(s) with $364,095,420.00 traded over the last 24 hours. More information can be found at https://polkadot.network/."
+  },
+  {
+    "id": 3890,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Polygon (MATIC) is a cryptocurrency . Polygon has a current supply of 10,000,000,000 with 9,618,300,525.971277 in circulation. The last known price of Polygon is 1.0563033 USD and is up 5.55 over the last 24 hours. It is currently trading on 1292 active market(s) with $947,226,312.24 traded over the last 24 hours. More information can be found at https://polygon.technology/."
+  },
+  {
+    "id": 11419,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Toncoin (TON) is a cryptocurrency . Toncoin has a current supply of 5,103,327,452.384389 with 3,467,513,114.1516685 in circulation. The last known price of Toncoin is 2.17010325 USD and is up 2.72 over the last 24 hours. It is currently trading on 203 active market(s) with $51,163,567.33 traded over the last 24 hours. More information can be found at https://ton.org/."
+  },
+  {
+    "id": 7083,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Uniswap (UNI) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Uniswap has a current supply of 1,000,000,000 with 598,736,139.71 in circulation. The last known price of Uniswap is 10.68486995 USD and is down -2.23 over the last 24 hours. It is currently trading on 945 active market(s) with $463,388,165.95 traded over the last 24 hours. More information can be found at https://uniswap.org/blog/uni/."
+  },
+  {
+    "id": 8916,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Internet Computer (ICP) is a cryptocurrency launched in 2021and operates on the ICP platform. Internet Computer has a current supply of 514,965,608.6988864 with 459,544,307.49791014 in circulation. The last known price of Internet Computer is 13.06829831 USD and is up 4.17 over the last 24 hours. It is currently trading on 216 active market(s) with $157,775,363.31 traded over the last 24 hours. More information can be found at https://internetcomputer.org/."
+  },
+  {
+    "id": 5994,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Shiba Inu (SHIB) is a cryptocurrency and operates on the Ethereum platform. Shiba Inu has a current supply of 589,534,131,299,913 with 589,289,662,982,177.4 in circulation. The last known price of Shiba Inu is 0.00001022 USD and is up 5.72 over the last 24 hours. It is currently trading on 742 active market(s) with $363,572,140.74 traded over the last 24 hours. More information can be found at https://shibatoken.com/."
+  },
+  {
+    "id": 4943,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Dai (DAI) is a cryptocurrency and operates on the Ethereum platform. Dai has a current supply of 5,347,888,595.7464075. The last known price of Dai is 0.99989121 USD and is down -0.02 over the last 24 hours. It is currently trading on 3069 active market(s) with $201,242,844.12 traded over the last 24 hours. More information can be found at http://www.makerdao.com/."
+  },
+  {
+    "id": 1831,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Bitcoin Cash (BCH) is a cryptocurrency . Users are able to generate BCH through the process of mining. Bitcoin Cash has a current supply of 19,653,243.75. The last known price of Bitcoin Cash is 305.42699102 USD and is up 14.21 over the last 24 hours. It is currently trading on 847 active market(s) with $566,393,463.88 traded over the last 24 hours. More information can be found at http://bch.info."
+  },
+  {
+    "id": 2,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Litecoin (LTC) is a cryptocurrency . Users are able to generate LTC through the process of mining. Litecoin has a current supply of 84,000,000 with 74,250,737.59961525 in circulation. The last known price of Litecoin is 75.47451835 USD and is up 7.48 over the last 24 hours. It is currently trading on 1118 active market(s) with $600,835,016.52 traded over the last 24 hours. More information can be found at https://litecoin.org/."
+  },
+  {
+    "id": 10603,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Immutable (IMX) is a cryptocurrency launched in 2021and operates on the Ethereum platform. Immutable has a current supply of 2,000,000,000 with 1,389,224,659.3898141 in circulation. The last known price of Immutable is 3.33364461 USD and is up 1.62 over the last 24 hours. It is currently trading on 247 active market(s) with $116,955,363.48 traded over the last 24 hours. More information can be found at https://www.immutable.com/."
+  },
+  {
+    "id": 2280,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Filecoin (FIL) is a cryptocurrency launched in 2020. Users are able to generate FIL through the process of mining. Filecoin has a current supply of 1,960,869,759 with 514,775,483 in circulation. The last known price of Filecoin is 8.18799425 USD and is up 0.88 over the last 24 hours. It is currently trading on 439 active market(s) with $447,654,466.21 traded over the last 24 hours. More information can be found at https://filecoin.io/."
+  },
+  {
+    "id": 3794,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Cosmos (ATOM) is a cryptocurrency . Cosmos has a current supply of 388,168,360. The last known price of Cosmos is 11.19253901 USD and is up 7.13 over the last 24 hours. It is currently trading on 705 active market(s) with $300,748,798.04 traded over the last 24 hours. More information can be found at https://cosmos.network/."
+  },
+  {
+    "id": 1321,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Ethereum Classic (ETC) is a cryptocurrency . Users are able to generate ETC through the process of mining. Ethereum Classic has a current supply of 210,700,000 with 145,758,653.99858525 in circulation. The last known price of Ethereum Classic is 28.32357572 USD and is up 2.77 over the last 24 hours. It is currently trading on 508 active market(s) with $423,962,513.74 traded over the last 24 hours. More information can be found at https://ethereumclassic.org/."
+  },
+  {
+    "id": 6535,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "NEAR Protocol (NEAR) is a cryptocurrency launched in 2020. NEAR Protocol has a current supply of 1,178,266,083 with 1,043,193,664 in circulation. The last known price of NEAR Protocol is 4.04169017 USD and is up 6.77 over the last 24 hours. It is currently trading on 359 active market(s) with $574,185,211.84 traded over the last 24 hours. More information can be found at https://near.org/."
+  },
+  {
+    "id": 3957,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "UNUS SED LEO (LEO) is a cryptocurrency and operates on the Ethereum platform. UNUS SED LEO has a current supply of 985,239,504 with 927,332,955.9 in circulation. The last known price of UNUS SED LEO is 4.33931164 USD and is up 4.37 over the last 24 hours. It is currently trading on 43 active market(s) with $1,389,738.63 traded over the last 24 hours. More information can be found at https://www.bitfinex.com/."
+  },
+  {
+    "id": 20396,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Kaspa (KAS) is a cryptocurrency launched in 2021. Users are able to generate KAS through the process of mining. Kaspa has a current supply of 22,827,768,910.333466. The last known price of Kaspa is 0.17400683 USD and is up 4.24 over the last 24 hours. It is currently trading on 97 active market(s) with $72,531,822.10 traded over the last 24 hours. More information can be found at https://www.kaspa.org."
+  },
+  {
+    "id": 22974,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Bittensor (TAO) is a cryptocurrency launched in 2021. Bittensor has a current supply of 6,321,943. The last known price of Bittensor is 613.23857897 USD and is up 5.19 over the last 24 hours. It is currently trading on 24 active market(s) with $31,532,484.31 traded over the last 24 hours. More information can be found at https://bittensor.com."
+  },
+  {
+    "id": 11840,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Optimism (OP) is a cryptocurrency and operates on the Optimism platform. Optimism has a current supply of 4,294,967,296 with 957,378,568 in circulation. The last known price of Optimism is 3.81468814 USD and is down -0.38 over the last 24 hours. It is currently trading on 463 active market(s) with $280,004,714.46 traded over the last 24 hours. More information can be found at https://www.optimism.io/."
+  },
+  {
+    "id": 4847,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Stacks (STX) is a cryptocurrency . Users are able to generate STX through the process of mining. Stacks has a current supply of 1,818,000,000 with 1,443,789,565.633236 in circulation. The last known price of Stacks is 3.13971978 USD and is up 24.46 over the last 24 hours. It is currently trading on 156 active market(s) with $564,462,244.16 traded over the last 24 hours. More information can be found at https://stacks.co."
+  },
+  {
+    "id": 4642,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Hedera (HBAR) is a cryptocurrency launched in 2017. Hedera has a current supply of 50,000,000,000 with 33,679,155,198.76219 in circulation. The last known price of Hedera is 0.11086017 USD and is up 3.65 over the last 24 hours. It is currently trading on 226 active market(s) with $133,043,071.48 traded over the last 24 hours. More information can be found at https://www.hedera.com/."
+  },
+  {
+    "id": 21794,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "BIT is the in-game utility token of Bit.Country. It is the fundamental material and energy source of Bit.Country. BIT can only be mined or burnt.  It cannot be purchased, only transferred. Users earn BIT through the Material Campaign.\n\nBIT is perpetual and settled on the blockchain, making it highly secure, similar to cold storage. It is used for future on-chain activities such as decentralized exchanges. Users should accumulate BIT on the blockchain and convert amounts into BIT(Spot) for daily transactions.\n\nUltility of BIT: \n* Minting NFTs.\n* Run metaverse events and campaigns. \n* Building, placing, and removing voxels.\n* Placing and removing 3D assets.\n* Placing and removing props. \n* Customization of Estate images.\n* Customization of Metaverse Settings.\n* Pulse page posts.\n* Other in-metaverse transactions\n"
+  },
+  {
+    "id": 3077,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "VeChain (VET) is a cryptocurrency . VeChain has a current supply of 85,985,041,177 with 72,714,516,834 in circulation. The last known price of VeChain is 0.04928041 USD and is up 3.25 over the last 24 hours. It is currently trading on 272 active market(s) with $281,440,187.22 traded over the last 24 hours. More information can be found at https://www.vechain.org/."
+  },
+  {
+    "id": 7226,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Injective (INJ) is a cryptocurrency and operates on the Injective platform. Injective has a current supply of 100,000,000 with 93,400,000 in circulation. The last known price of Injective is 36.41977125 USD and is up 1.73 over the last 24 hours. It is currently trading on 321 active market(s) with $211,947,909.28 traded over the last 24 hours. More information can be found at https://injective.com."
+  },
+  {
+    "id": 512,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Stellar (XLM) is a cryptocurrency . Stellar has a current supply of 50,001,787,029.71776 with 28,474,088,966.86804 in circulation. The last known price of Stellar is 0.11942887 USD and is up 2.94 over the last 24 hours. It is currently trading on 574 active market(s) with $105,353,678.81 traded over the last 24 hours. More information can be found at https://www.stellar.org."
+  },
+  {
+    "id": 26081,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "First Digital USD (FDUSD) is a cryptocurrency launched in 2023and operates on the Ethereum platform. First Digital USD has a current supply of 3,306,729,236.91. The last known price of First Digital USD is 0.99994122 USD and is up 0.06 over the last 24 hours. It is currently trading on 215 active market(s) with $9,780,202,285.08 traded over the last 24 hours. More information can be found at https://firstdigitallabs.com/."
+  },
+  {
+    "id": 8000,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Lido DAO (LDO) is a cryptocurrency and operates on the Ethereum platform. Lido DAO has a current supply of 1,000,000,000 with 891,672,817.0743735 in circulation. The last known price of Lido DAO is 3.52809827 USD and is up 3.33 over the last 24 hours. It is currently trading on 338 active market(s) with $169,337,178.40 traded over the last 24 hours. More information can be found at https://lido.fi/."
+  },
+  {
+    "id": 3897,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "OKB (OKB) is a cryptocurrency and operates on the Ethereum platform. OKB has a current supply of 300,000,000 with 60,000,000 in circulation. The last known price of OKB is 51.39661387 USD and is up 3.02 over the last 24 hours. It is currently trading on 115 active market(s) with $11,491,616.39 traded over the last 24 hours. More information can be found at https://www.okx.com/."
+  },
+  {
+    "id": 27075,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Mantle (MNT) is a cryptocurrency and operates on the Ethereum platform. Mantle has a current supply of 6,219,316,794.99 with 3,226,917,893.0331407 in circulation. The last known price of Mantle is 0.93195861 USD and is up 0.98 over the last 24 hours. It is currently trading on 51 active market(s) with $249,177,342.41 traded over the last 24 hours. More information can be found at https://www.mantle.xyz/."
+  },
+  {
+    "id": 22861,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Celestia (TIA) is a cryptocurrency and operates on the Osmosis platform. Celestia has a current supply of 1,025,863,013.698538 with 166,906,541.448538 in circulation. The last known price of Celestia is 17.2282198 USD and is up 3.24 over the last 24 hours. It is currently trading on 149 active market(s) with $164,863,804.90 traded over the last 24 hours. More information can be found at https://www.celestia.org."
+  },
+  {
+    "id": 6719,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "The Graph (GRT) is a cryptocurrency launched in 2018and operates on the Ethereum platform. The Graph has a current supply of 10,794,523,456.231003 with 9,417,283,615.167877 in circulation. The last known price of The Graph is 0.28426859 USD and is down -2.99 over the last 24 hours. It is currently trading on 428 active market(s) with $248,547,694.18 traded over the last 24 hours. More information can be found at https://thegraph.com."
+  },
+  {
+    "id": 5690,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Render (RNDR) is a cryptocurrency launched in 2019and operates on the Ethereum platform. Render has a current supply of 531,039,932.96794844 with 378,257,446.68794847 in circulation. The last known price of Render is 7.47567331 USD and is up 2.85 over the last 24 hours. It is currently trading on 313 active market(s) with $272,809,422.84 traded over the last 24 hours. More information can be found at https://rendernetwork.com/."
+  },
+  {
+    "id": 11841,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Arbitrum (ARB) is a cryptocurrency launched in 2023and operates on the Arbitrum platform. Arbitrum has a current supply of 10,000,000,000 with 1,275,000,000 in circulation. The last known price of Arbitrum is 1.92824043 USD and is up 2.95 over the last 24 hours. It is currently trading on 784 active market(s) with $498,824,839.88 traded over the last 24 hours. More information can be found at https://arbitrum.foundation."
+  },
+  {
+    "id": 3635,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Cronos (CRO) is a cryptocurrency . Cronos has a current supply of 30,263,013,692 with 25,263,013,692 in circulation. The last known price of Cronos is 0.09997261 USD and is up 5.76 over the last 24 hours. It is currently trading on 228 active market(s) with $19,468,813.64 traded over the last 24 hours. More information can be found at https://cronos.org/."
+  },
+  {
+    "id": 328,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Monero (XMR) is a cryptocurrency . Users are able to generate XMR through the process of mining. Monero has a current supply of 18,403,090.2473229. The last known price of Monero is 129.69098881 USD and is up 0.46 over the last 24 hours. It is currently trading on 270 active market(s) with $65,843,870.07 traded over the last 24 hours. More information can be found at https://www.getmonero.org/."
+  },
+  {
+    "id": 23149,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Sei (SEI) is a cryptocurrency . Sei has a current supply of 10,000,000,000 with 2,550,000,000 in circulation. The last known price of Sei is 0.90527038 USD and is up 10.50 over the last 24 hours. It is currently trading on 150 active market(s) with $486,792,127.44 traded over the last 24 hours. More information can be found at https://www.sei.io/."
+  },
+  {
+    "id": 1518,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Maker (MKR) is a cryptocurrency and operates on the Ethereum platform. Maker has a current supply of 977,631.03695089 with 923,281.38795834 in circulation. The last known price of Maker is 2,140.12115249 USD and is up 2.91 over the last 24 hours. It is currently trading on 443 active market(s) with $62,206,004.46 traded over the last 24 hours. More information can be found at https://makerdao.com/."
+  },
+  {
+    "id": 20947,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Sui (SUI) is a cryptocurrency and operates on the Sui Network platform. Sui has a current supply of 10,000,000,000 with 1,165,931,966.173846 in circulation. The last known price of Sui is 1.66272696 USD and is up 1.54 over the last 24 hours. It is currently trading on 217 active market(s) with $395,062,132.37 traded over the last 24 hours. More information can be found at https://sui.io/#."
+  },
+  {
+    "id": 4157,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "THORChain (RUNE) is a cryptocurrency launched in 2018. THORChain has a current supply of 482,942,800 with 340,794,049 in circulation. The last known price of THORChain is 5.96560976 USD and is up 8.32 over the last 24 hours. It is currently trading on 170 active market(s) with $271,354,755.55 traded over the last 24 hours. More information can be found at https://thorchain.org/."
+  },
+  {
+    "id": 28298,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Beam (BEAM) is a cryptocurrency and operates on the Ethereum platform. Beam has a current supply of 62,955,102,600 with 51,838,913,121.127106 in circulation. The last known price of Beam is 0.03640198 USD and is up 8.79 over the last 24 hours. It is currently trading on 97 active market(s) with $69,553,428.12 traded over the last 24 hours. More information can be found at https://www.onbeam.com/."
+  },
+  {
+    "id": 4030,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Algorand (ALGO) is a cryptocurrency . Algorand has a current supply of 8,047,787,744.445136. The last known price of Algorand is 0.2084678 USD and is up 3.18 over the last 24 hours. It is currently trading on 396 active market(s) with $80,380,466.26 traded over the last 24 hours. More information can be found at http://algorand.foundation."
+  },
+  {
+    "id": 7950,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Flare (FLR) is a cryptocurrency launched in 2023. Flare has a current supply of 100,559,787,198 with 34,662,364,596.6159 in circulation. The last known price of Flare is 0.05076357 USD and is up 10.83 over the last 24 hours. It is currently trading on 64 active market(s) with $114,815,435.35 traded over the last 24 hours. More information can be found at https://flare.network."
+  },
+  {
+    "id": 6892,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "MultiversX (EGLD) is a cryptocurrency . MultiversX has a current supply of 26,629,920 with 26,624,768 in circulation. The last known price of MultiversX is 60.46618066 USD and is up 2.55 over the last 24 hours. It is currently trading on 223 active market(s) with $57,334,958.07 traded over the last 24 hours. More information can be found at https://multiversx.com/."
+  },
+  {
+    "id": 4558,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Flow (FLOW) is a cryptocurrency launched in 2021. Flow has a current supply of 1,490,653,078.576665 with 1,490,653,079 in circulation. The last known price of Flow is 1.06839585 USD and is up 0.74 over the last 24 hours. It is currently trading on 176 active market(s) with $164,508,497.20 traded over the last 24 hours. More information can be found at https://flow.com."
+  },
+  {
+    "id": 7278,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Aave (AAVE) is a cryptocurrency and operates on the Ethereum platform. Aave has a current supply of 16,000,000 with 14,742,728.11079085 in circulation. The last known price of Aave is 102.15660059 USD and is up 0.76 over the last 24 hours. It is currently trading on 825 active market(s) with $151,136,414.39 traded over the last 24 hours. More information can be found at https://aave.com/."
+  },
+  {
+    "id": 3602,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Bitcoin SV (BSV) is a cryptocurrency . Users are able to generate BSV through the process of mining. Bitcoin SV has a current supply of 19,645,743.75. The last known price of Bitcoin SV is 82.76159837 USD and is up 10.06 over the last 24 hours. It is currently trading on 232 active market(s) with $143,542,652.44 traded over the last 24 hours. More information can be found at https://www.bsvblockchain.org/."
+  },
+  {
+    "id": 2416,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Theta Network (THETA) is a cryptocurrency . Theta Network has a current supply of 1,000,000,000. The last known price of Theta Network is 2.12706121 USD and is up 46.71 over the last 24 hours. It is currently trading on 181 active market(s) with $509,587,983.85 traded over the last 24 hours. More information can be found at https://www.thetatoken.org/."
+  },
+  {
+    "id": 22691,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Starknet (STRK) is a cryptocurrency and operates on the Ethereum platform. Starknet has a current supply of 10,000,000,000 with 728,000,000 in circulation. The last known price of Starknet is 2.02508181 USD and is up 4.50 over the last 24 hours. It is currently trading on 84 active market(s) with $457,548,590.03 traded over the last 24 hours. More information can be found at https://starknet.io/."
+  },
+  {
+    "id": 11092,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Bitget Token (BGB) is a cryptocurrency and operates on the Ethereum platform. Bitget Token has a current supply of 2,000,000,000 with 1,400,000,000 in circulation. The last known price of Bitget Token is 1.02092446 USD and is up 2.12 over the last 24 hours. It is currently trading on 15 active market(s) with $26,791,529.95 traded over the last 24 hours. More information can be found at https://www.bitget.com/."
+  },
+  {
+    "id": 5665,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Helium (HNT) is a cryptocurrency launched in 2019. Users are able to generate HNT through the process of mining. Helium has a current supply of 160,875,441.82421333. The last known price of Helium is 9.32096953 USD and is up 10.14 over the last 24 hours. It is currently trading on 123 active market(s) with $22,649,409.04 traded over the last 24 hours. More information can be found at https://www.helium.com/."
+  },
+  {
+    "id": 8646,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Mina (MINA) is a cryptocurrency . Mina has a current supply of 1,130,331,052.8400393 with 1,059,262,125.8400393 in circulation. The last known price of Mina is 1.33386416 USD and is up 3.80 over the last 24 hours. It is currently trading on 136 active market(s) with $67,539,955.67 traded over the last 24 hours. More information can be found at https://minaprotocol.com/."
+  },
+  {
+    "id": 25028,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "ORDI (ORDI) is a cryptocurrency and operates on the Ordinals - BRC20 platform. ORDI has a current supply of 21,000,000. The last known price of ORDI is 69.14359178 USD and is up 7.20 over the last 24 hours. It is currently trading on 134 active market(s) with $278,419,081.34 traded over the last 24 hours."
+  },
+  {
+    "id": 3155,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Quant (QNT) is a cryptocurrency and operates on the Ethereum platform. Quant has a current supply of 14,881,364 with 12,072,738 in circulation. The last known price of Quant is 109.43767105 USD and is up 2.65 over the last 24 hours. It is currently trading on 232 active market(s) with $35,521,723.55 traded over the last 24 hours. More information can be found at https://quant.network/."
+  },
+  {
+    "id": 2563,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "TrueUSD (TUSD) is a cryptocurrency and operates on the Ethereum platform. TrueUSD has a current supply of 1,288,455,467.01. The last known price of TrueUSD is 0.97365089 USD and is down -0.02 over the last 24 hours. It is currently trading on 517 active market(s) with $144,576,395.70 traded over the last 24 hours. More information can be found at https://tusd.io/."
+  },
+  {
+    "id": 2586,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Synthetix (SNX) is a cryptocurrency and operates on the Ethereum platform. Synthetix has a current supply of 328,193,104.0887736 with 304,642,081.0682338 in circulation. The last known price of Synthetix is 4.00514079 USD and is down -2.67 over the last 24 hours. It is currently trading on 570 active market(s) with $60,298,082.14 traded over the last 24 hours. More information can be found at https://www.synthetix.io/."
+  },
+  {
+    "id": 13502,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Worldcoin (WLD) is a cryptocurrency launched in 2023and operates on the Ethereum platform. Worldcoin has a current supply of 10,000,000,000 with 137,112,190.53915405 in circulation. The last known price of Worldcoin is 7.96740585 USD and is down -13.45 over the last 24 hours. It is currently trading on 236 active market(s) with $1,064,859,523.80 traded over the last 24 hours. More information can be found at https://worldcoin.org/."
+  },
+  {
+    "id": 18876,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "ApeCoin (APE) is a cryptocurrency launched in 2022and operates on the Ethereum platform. ApeCoin has a current supply of 1,000,000,000 with 604,895,833 in circulation. The last known price of ApeCoin is 1.95461494 USD and is down -1.36 over the last 24 hours. It is currently trading on 374 active market(s) with $184,476,250.69 traded over the last 24 hours. More information can be found at http://apecoin.com/."
+  },
+  {
+    "id": 6210,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "The Sandbox (SAND) is a cryptocurrency and operates on the Ethereum platform. The Sandbox has a current supply of 3,000,000,000 with 2,237,731,926.2233224 in circulation. The last known price of The Sandbox is 0.54175037 USD and is down -1.00 over the last 24 hours. It is currently trading on 506 active market(s) with $221,330,078.45 traded over the last 24 hours. More information can be found at https://www.sandbox.game/en/."
+  },
+  {
+    "id": 3513,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Fantom (FTM) is a cryptocurrency launched in 2018. Fantom has a current supply of 3,175,000,000 with 2,803,634,835.5265927 in circulation. The last known price of Fantom is 0.44715819 USD and is up 4.26 over the last 24 hours. It is currently trading on 615 active market(s) with $113,811,961.46 traded over the last 24 hours. More information can be found at https://fantom.foundation/."
+  },
+  {
+    "id": 6783,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Axie Infinity (AXS) is a cryptocurrency and operates on the Ethereum platform. Axie Infinity has a current supply of 270,000,000 with 137,597,088.7537503 in circulation. The last known price of Axie Infinity is 8.64098804 USD and is up 1.80 over the last 24 hours. It is currently trading on 415 active market(s) with $129,727,229.69 traded over the last 24 hours. More information can be found at https://axieinfinity.com/."
+  },
+  {
+    "id": 4066,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Chiliz (CHZ) is a cryptocurrency and operates on the Ethereum platform. Chiliz has a current supply of 8,888,888,888 with 8,888,290,621.684032 in circulation. The last known price of Chiliz is 0.13990874 USD and is up 6.95 over the last 24 hours. It is currently trading on 429 active market(s) with $170,923,381.00 traded over the last 24 hours. More information can be found at https://www.chiliz.com/."
+  },
+  {
+    "id": 2011,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Tezos (XTZ) is a cryptocurrency . Tezos has a current supply of 993,166,963.549398 with 972,296,301.844857 in circulation. The last known price of Tezos is 1.14519868 USD and is up 2.02 over the last 24 hours. It is currently trading on 354 active market(s) with $35,864,277.78 traded over the last 24 hours. More information can be found at https://www.tezos.com/."
+  },
+  {
+    "id": 23121,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Blur (BLUR) is a cryptocurrency and operates on the Ethereum platform. Blur has a current supply of 3,000,000,000 with 1,437,075,281.8207762 in circulation. The last known price of Blur is 0.74752897 USD and is down -0.47 over the last 24 hours. It is currently trading on 201 active market(s) with $189,961,543.58 traded over the last 24 hours. More information can be found at https://blur.io/."
+  },
+  {
+    "id": 5632,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Arweave (AR) is a cryptocurrency launched in 2018. Arweave has a current supply of 65,454,185. The last known price of Arweave is 16.09619739 USD and is down -1.58 over the last 24 hours. It is currently trading on 110 active market(s) with $71,415,134.94 traded over the last 24 hours. More information can be found at https://www.arweave.org."
+  },
+  {
+    "id": 2087,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "KuCoin Token (KCS) is a cryptocurrency and operates on the Ethereum platform. KuCoin Token has a current supply of 143,996,827.28894475 with 96,496,827.28902875 in circulation. The last known price of KuCoin Token is 10.94664254 USD and is up 2.71 over the last 24 hours. It is currently trading on 46 active market(s) with $2,389,984.99 traded over the last 24 hours. More information can be found at https://www.kucoin.com/."
+  },
+  {
+    "id": 16086,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "BitTorrent (New) (BTT) is a cryptocurrency and operates on the Tron20 platform. BitTorrent (New) has a current supply of 990,000,000,000,000 with 968,246,428,571,000 in circulation. The last known price of BitTorrent (New) is 0.00000113 USD and is up 6.39 over the last 24 hours. It is currently trading on 144 active market(s) with $53,369,347.98 traded over the last 24 hours. More information can be found at https://bt.io/."
+  },
+  {
+    "id": 1966,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Decentraland (MANA) is a cryptocurrency and operates on the Ethereum platform. Decentraland has a current supply of 2,193,179,327.320146 with 1,908,319,865.391588 in circulation. The last known price of Decentraland is 0.53321171 USD and is down -0.90 over the last 24 hours. It is currently trading on 466 active market(s) with $166,820,902.18 traded over the last 24 hours. More information can be found at https://decentraland.org/."
+  },
+  {
+    "id": 11156,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "dYdX (ethDYDX) (ETHDYDX) is a cryptocurrency launched in 2021and operates on the Ethereum platform. dYdX (ethDYDX) has a current supply of 536,043,997.31 with 295,616,430.29 in circulation. The last known price of dYdX (ethDYDX) is 3.35000803 USD and is down -1.71 over the last 24 hours. It is currently trading on 285 active market(s) with $136,028,671.29 traded over the last 24 hours. More information can be found at https://dydx.trade/."
+  },
+  {
+    "id": 28683,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "SATS (1000SATS) is a cryptocurrency . SATS has a current supply of 2,100,000,000,000. The last known price of SATS is 0.00050675 USD and is up 7.38 over the last 24 hours. It is currently trading on 25 active market(s) with $66,015,770.25 traded over the last 24 hours."
+  },
+  {
+    "id": 7080,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Gala (GALA) is a cryptocurrency and operates on the Ethereum platform. Gala has a current supply of 29,829,021,284.436974 with 27,799,861,148.42234 in circulation. The last known price of Gala is 0.03281099 USD and is down -4.39 over the last 24 hours. It is currently trading on 380 active market(s) with $237,654,698.50 traded over the last 24 hours. More information can be found at https://gala.com/."
+  },
+  {
+    "id": 2424,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "SingularityNET (AGIX) is a cryptocurrency and operates on the Ethereum platform. SingularityNET has a current supply of 1,383,439,267.0632157 with 1,256,596,782.6824672 in circulation. The last known price of SingularityNET is 0.71265926 USD and is down -5.10 over the last 24 hours. It is currently trading on 197 active market(s) with $195,927,224.49 traded over the last 24 hours. More information can be found at https://singularitynet.io/."
+  },
+  {
+    "id": 7501,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "WOO (WOO) is a cryptocurrency launched in 2020and operates on the Ethereum platform. WOO has a current supply of 2,230,434,666.901858 with 1,830,300,543.9645967 in circulation. The last known price of WOO is 0.51315923 USD and is up 0.15 over the last 24 hours. It is currently trading on 293 active market(s) with $39,641,509.18 traded over the last 24 hours. More information can be found at https://woo.org."
+  },
+  {
+    "id": 28932,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Dymension (DYM) is a cryptocurrency . Dymension has a current supply of 1,000,000,000 with 146,000,000 in circulation. The last known price of Dymension is 6.46474763 USD and is up 1.87 over the last 24 hours. It is currently trading on 73 active market(s) with $55,386,338.41 traded over the last 24 hours. More information can be found at https://dymension.xyz/."
+  },
+  {
+    "id": 14101,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Ronin (RON) is a cryptocurrency . Ronin has a current supply of 1,000,000,000 with 299,559,661.27933294 in circulation. The last known price of Ronin is 3.0289737 USD and is down -2.32 over the last 24 hours. It is currently trading on 50 active market(s) with $49,027,050.17 traded over the last 24 hours. More information can be found at https://roninchain.com."
+  },
+  {
+    "id": 7431,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Akash Network (AKT) is a cryptocurrency . Akash Network has a current supply of 228,947,941.326457. The last known price of Akash Network is 4.68543419 USD and is up 15.91 over the last 24 hours. It is currently trading on 67 active market(s) with $20,016,174.28 traded over the last 24 hours. More information can be found at https://akash.network."
+  },
+  {
+    "id": 7334,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Conflux (CFX) is a cryptocurrency launched in 2020. Users are able to generate CFX through the process of mining. Conflux has a current supply of 4,974,469,826.8 with 3,749,469,814.09 in circulation. The last known price of Conflux is 0.25201952 USD and is up 2.64 over the last 24 hours. It is currently trading on 144 active market(s) with $45,242,901.09 traded over the last 24 hours. More information can be found at https://confluxnetwork.org/."
+  },
+  {
+    "id": 12885,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Astar (ASTR) is a cryptocurrency . Astar has a current supply of 8,392,997,275 with 5,566,900,982 in circulation. The last known price of Astar is 0.16263418 USD and is down -1.22 over the last 24 hours. It is currently trading on 98 active market(s) with $35,380,152.73 traded over the last 24 hours. More information can be found at https://astar.network/."
+  },
+  {
+    "id": 1376,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Neo (NEO) is a cryptocurrency . Neo has a current supply of 100,000,000 with 70,538,831 in circulation. The last known price of Neo is 13.30926291 USD and is up 3.07 over the last 24 hours. It is currently trading on 314 active market(s) with $54,241,326.65 traded over the last 24 hours. More information can be found at https://neo.org/."
+  },
+  {
+    "id": 3773,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Fetch.ai (FET) is a cryptocurrency launched in 2018. Fetch.ai has a current supply of 1,152,997,575 with 831,788,929.0545565 in circulation. The last known price of Fetch.ai is 1.08829186 USD and is down -1.39 over the last 24 hours. It is currently trading on 240 active market(s) with $193,268,915.37 traded over the last 24 hours. More information can be found at https://fetch-ai.network/."
+  },
+  {
+    "id": 1659,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Gnosis (GNO) is a cryptocurrency and operates on the Ethereum platform. Gnosis has a current supply of 3,000,000 with 2,589,588 in circulation. The last known price of Gnosis is 362.05504631 USD and is up 4.38 over the last 24 hours. It is currently trading on 170 active market(s) with $10,414,315.99 traded over the last 24 hours. More information can be found at https://gnosis.io/."
+  },
+  {
+    "id": 1765,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "EOS (EOS) is a cryptocurrency . EOS has a current supply of 1,118,425,489.9981. The last known price of EOS is 0.82277907 USD and is up 3.41 over the last 24 hours. It is currently trading on 634 active market(s) with $152,791,072.53 traded over the last 24 hours. More information can be found at https://eosnetwork.com/."
+  },
+  {
+    "id": 4846,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Kava (KAVA) is a cryptocurrency launched in 2019and operates on the Ethereum platform. Kava has a current supply of 1,082,860,682 with 1,082,860,683 in circulation. The last known price of Kava is 0.8142599 USD and is up 1.10 over the last 24 hours. It is currently trading on 152 active market(s) with $35,616,762.80 traded over the last 24 hours. More information can be found at https://www.kava.io/."
+  },
+  {
+    "id": 1720,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "IOTA (IOTA) is a cryptocurrency launched in 2015. IOTA has a current supply of 3,152,954,445. The last known price of IOTA is 0.27973082 USD and is up 2.34 over the last 24 hours. It is currently trading on 134 active market(s) with $34,023,910.95 traded over the last 24 hours. More information can be found at https://www.iota.org/."
+  },
+  {
+    "id": 28177,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Pyth Network (PYTH) is a cryptocurrency launched in 2021and operates on the Solana platform. Pyth Network has a current supply of 9,999,989,217.863092 with 1,517,569,217.853093 in circulation. The last known price of Pyth Network is 0.7866676 USD and is up 39.18 over the last 24 hours. It is currently trading on 155 active market(s) with $445,344,658.88 traded over the last 24 hours. More information can be found at https://pyth.network/."
+  },
+  {
+    "id": 17799,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Axelar (AXL) is a cryptocurrency launched in 2022and operates on the Ethereum platform. Axelar has a current supply of 1,136,101,274.088053 with 580,062,726.010401 in circulation. The last known price of Axelar is 1.45342498 USD and is down -0.53 over the last 24 hours. It is currently trading on 82 active market(s) with $8,767,186.28 traded over the last 24 hours. More information can be found at https://axelar.network/."
+  },
+  {
+    "id": 7653,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Oasis Network (ROSE) is a cryptocurrency launched in 2020and operates on the Ethereum platform. Oasis Network has a current supply of 10,000,000,000 with 6,713,599,876 in circulation. The last known price of Oasis Network is 0.12910755 USD and is up 4.51 over the last 24 hours. It is currently trading on 123 active market(s) with $73,427,365.43 traded over the last 24 hours. More information can be found at https://oasisprotocol.org/."
+  },
+  {
+    "id": 4256,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Klaytn (KLAY) is a cryptocurrency launched in 2019. Klaytn has a current supply of 5,904,561,650.988592 with 3,493,831,181.988592 in circulation. The last known price of Klaytn is 0.23234216 USD and is up 2.51 over the last 24 hours. It is currently trading on 248 active market(s) with $24,645,300.17 traded over the last 24 hours. More information can be found at https://www.klaytn.foundation/."
+  },
+  {
+    "id": 12220,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "Osmosis (OSMO) is a cryptocurrency . Osmosis has a current supply of 646,153,582.019637 with 534,147,424.784878 in circulation. The last known price of Osmosis is 1.63830038 USD and is up 3.73 over the last 24 hours. It is currently trading on 346 active market(s) with $66,383,695.98 traded over the last 24 hours. More information can be found at https://osmosis.zone/."
+  },
+  {
+    "id": 7548,
+    "website": "https://",
+    "tech_doc": "https://",
+    "facebook": "https://facebook.com/",
+    "reddit": "https://reddit.com/r/",
+    "twitter": "https://twitter.com/",
+    "description": "WEMIX (WEMIX) is a cryptocurrency launched in 2020. WEMIX has a current supply of 953,497,602.3054012 with 363,582,505.2926707 in circulation. The last known price of WEMIX is 2.12413466 USD and is up 2.01 over the last 24 hours. It is currently trading on 53 active market(s) with $3,899,031.94 traded over the last 24 hours. More information can be found at http://wemix.com/."
+  }
+]
