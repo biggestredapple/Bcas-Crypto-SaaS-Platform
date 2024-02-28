@@ -101,7 +101,7 @@ export const ReportView: React.FC<ReportViewProps> = ({
     });
   });
   return (
-    <div className="w-full h-[calc(100vh-48px)]">
+    <div className="w-full h-full">
       {linkData && metaData ? (
         <div className="p-10 overflow-auto flex flex-col gap-5 h-full">
           <animated.div
